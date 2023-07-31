@@ -41,8 +41,7 @@ Showcasing how a single iteration of an application can look like.
 
 ### Architecture
 
-TODO
-![Application Architecture]()
+[Architecture Documents](./docs/architecture/application-architecture.md)
 
 ### Project
 
