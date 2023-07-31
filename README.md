@@ -41,7 +41,7 @@ Showcasing how a single iteration in the development of an application can look 
 #### Stretch Goals
 
 - Setup tools for dynamic program analysis (Unit Testing with [Vitest](https://vitest.dev/), [walkthrough](https://www.robinwieruch.de/vitest-react-testing-library/))
-- Setup a basic [CI pipeline](https://www.redhat.com/en/topics/devops/what-cicd-pipeline) through [GitHub Actions](https://docs.github.com/en/actions/quickstart) ([Vitest](https://vitest.dev/))
+- Setup a basic [CI pipeline](https://www.redhat.com/en/topics/devops/what-cicd-pipeline) through [GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 ## Design Documents
 
