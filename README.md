@@ -10,6 +10,7 @@
 ## Run this project locally
 
 1. Clone repository<br> ```git clone https://github.com/LarsGJobloop/example-pokedex.git```
+2. Install dependencies<br>```npm install```
 
 ## Goals
 
