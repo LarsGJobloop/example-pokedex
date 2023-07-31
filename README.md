@@ -1,70 +1,8 @@
-# Example React Application<br>*- The Pokedex*
+# React + Vite
 
-## Content
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- [Run this project locally](#run-this-project-locally)
-- [Goals](#goals)
-- [Design Documents](#design-documents)
-- [References](#references)
+Currently, two official plugins are available:
 
-## Run this project locally
-
-1. Clone repository<br> ```git clone https://github.com/LarsGJobloop/example-pokedex.git```
-
-## Goals
-
-Showcasing how a single iteration in the development of an application can look like.
-
-### The user should
-
-- Be able to view a list of pokemons
-  - Be able to navigate through all pokemons provided by the [PokeAPI](https://pokeapi.co/)
-- See details about a specific pokemon
-
-### Skills applied
-
-- Using [Figma](https://www.figma.com/) to create an application design
-- Modeling of a application
-- Setting up a project with [ViteJS](https://vitejs.dev/)
-- Using [React](https://react.dev/) to:
-  - Create components from Figma design
-  - Generating components from data
-  - Interact with a backend
-  - Create custom hooks for application specific functionality
-- Using [React Router](https://reactrouter.com/) to:
-  - Create pages
-  - Define layouts
-  - Create pages based on URL state and parameters
-- Setup tools for static code analysis (linting with [ESLint](https://eslint.org/))
-- Setup a deploy pipeline
-
-#### Stretch Goals
-
-- Setup tools for dynamic program analysis (Unit Testing with [Vitest](https://vitest.dev/), [walkthrough](https://www.robinwieruch.de/vitest-react-testing-library/))
-- Setup a basic [CI pipeline](https://www.redhat.com/en/topics/devops/what-cicd-pipeline) through [GitHub Actions](https://docs.github.com/en/actions/quickstart)
-
-## Design Documents
-
-### UI Design
-
-[UI Design Documents](./docs/ui-design/ui-design.md)
-
-### Architecture
-
-[Architecture Documents](./docs/architecture/application-architecture.md)
-
-### Project
-
-A overview of the development cycle for this project.
-
-![Project Design Cycle](./docs/development-cycle-2023-07-31-1058.png)
-
-## References
-
-- [PokeAPI](https://pokeapi.co/)
-- [Figma](https://www.figma.com/)
-- [ViteJS](https://vitejs.dev/)
-- [React](https://react.dev/)
-- [React Router](https://reactrouter.com/)
-- [ESLint](https://eslint.org/)
-- [Deployment Choice]()
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
