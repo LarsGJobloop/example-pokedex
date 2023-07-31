@@ -23,15 +23,15 @@ Showcasing how a single iteration in the development of an application can look 
 
 ### Skills applied
 
-- Using Figma to create an application design
+- Using [Figma](https://www.figma.com/) to create an application design
 - Modeling of a application
-- Setting up a project with Vite
-- Using React to:
+- Setting up a project with [ViteJS](https://vitejs.dev/)
+- Using [React](https://react.dev/) to:
   - Create components from Figma design
   - Generating components from data
   - Interact with a backend
   - Create custom hooks for application specific functionality
-- Using React Router to:
+- Using [React Router](https://reactrouter.com/) to:
   - Create pages
   - Define layouts
   - Create pages based on URL state and parameters
@@ -62,6 +62,7 @@ A overview of the development cycle for this project.
 ## References
 
 - [PokeAPI](https://pokeapi.co/)
+- [Figma](https://www.figma.com/)
 - [ViteJS](https://vitejs.dev/)
 - [React](https://react.dev/)
 - [React Router](https://reactrouter.com/)
