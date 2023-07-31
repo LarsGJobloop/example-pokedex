@@ -37,7 +37,7 @@ Showcasing how a single iteration of an application can look like.
 
 ### UI Design
 
-[Here is the design document](./docs/ui-design/ui-design.md)
+[UI Design Documents](./docs/ui-design/ui-design.md)
 
 ### Architecture
 
