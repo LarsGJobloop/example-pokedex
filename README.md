@@ -1,20 +1,25 @@
-# Example React Application
-## The Pokedex
+# Example React Application<br>*- The Pokedex*
 
 ## Content
 
+- [Goals](#goals)
 - [Goals](#goals)
 - [Design Documents](#design-documents)
 - [References](#references)
 
 ## Goals
 
-Showcasing how a single iteration of an application can look like.
+Showcasing how a single iteration in the development of an application can look like.
+
+## Run this project locally
+
+1. Clone repository<br> ```git clone https://github.com/LarsGJobloop/example-pokedex.git```
 
 ### The user should
 
 - Be able to view a list of pokemons
-- See details about a individual pokemon
+  - Be able to navigate through all pokemons provided by the backend
+- See details about a specific pokemon
 
 ### Skills applied
 
@@ -33,6 +38,11 @@ Showcasing how a single iteration of an application can look like.
 - Setup tools for static code analysis (linting)
 - Setup a deploy pipeline
 
+#### Stretch Goals
+
+- Setup Unit Testing ([Vitest](https://vitest.dev/), [walkthrough](https://www.robinwieruch.de/vitest-react-testing-library/))
+- Setup a basic [CI pipeline](https://www.redhat.com/en/topics/devops/what-cicd-pipeline) through [GitHub Actions](https://docs.github.com/en/actions/quickstart) ([Vitest](https://vitest.dev/))
+
 ## Design Documents
 
 ### UI Design
@@ -45,12 +55,14 @@ Showcasing how a single iteration of an application can look like.
 
 ### Project
 
+A overview of the development cycle for this project.
+
 ![Project Design Cycle](./docs/development-cycle-2023-07-31-1058.png)
 
 ## References
 
-- [ViteJS]()
-- [React]()
-- [React Router]()
+- [ViteJS](https://vitejs.dev/)
+- [React](https://react.dev/)
+- [React Router](https://reactrouter.com/)
+- [ESLint](https://eslint.org/)
 - [Deployment Choice]()
-- [ESLint]()
