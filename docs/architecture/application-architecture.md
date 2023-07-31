@@ -18,4 +18,4 @@ Overview of how we interact with the backend.
 
 How we have decided link the frontend to the backend.
 
-![Hooks Architecture](./custom-hooks-2023-07-31-1122.png)
+![Hooks Architecture](./custom-hooks-2023-07-31-1320.png)

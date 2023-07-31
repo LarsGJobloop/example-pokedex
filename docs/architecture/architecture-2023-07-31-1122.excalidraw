@@ -766,20 +766,16 @@
         "type": 3
       },
       "seed": 504760637,
-      "version": 234,
-      "versionNonce": 2014532861,
+      "version": 235,
+      "versionNonce": 1382370429,
       "isDeleted": false,
       "boundElements": [
         {
           "type": "text",
           "id": "1Xdl6mGmucvvuUn0G6tCn"
-        },
-        {
-          "id": "3THjfJHgauKAMgku5PFpk",
-          "type": "arrow"
         }
       ],
-      "updated": 1690799905985,
+      "updated": 1690800573435,
       "link": null,
       "locked": false
     },
@@ -910,28 +906,16 @@
         "type": 3
       },
       "seed": 885273309,
-      "version": 531,
-      "versionNonce": 2125855165,
+      "version": 534,
+      "versionNonce": 1301972019,
       "isDeleted": false,
       "boundElements": [
         {
           "type": "text",
           "id": "VrEFWB3z_j0ras_-PCUe4"
-        },
-        {
-          "id": "RCveTh_IsAGp8_oNDKocv",
-          "type": "arrow"
-        },
-        {
-          "id": "KB7stAYvPeAdWmNLPrJvz",
-          "type": "arrow"
-        },
-        {
-          "id": "3THjfJHgauKAMgku5PFpk",
-          "type": "arrow"
         }
       ],
-      "updated": 1690799905985,
+      "updated": 1690800573435,
       "link": null,
       "locked": false
     },
@@ -1036,11 +1020,11 @@
         "type": 2
       },
       "seed": 1215806077,
-      "version": 813,
-      "versionNonce": 1937523251,
+      "version": 814,
+      "versionNonce": 1657620307,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1690799905985,
+      "updated": 1690800573435,
       "link": null,
       "locked": false,
       "points": [
@@ -1054,11 +1038,7 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "qmXUd0eb4K91xxTR7oFeX",
-        "focus": 0.36151123046875,
-        "gap": 1
-      },
+      "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow"
@@ -1084,11 +1064,11 @@
         "type": 2
       },
       "seed": 1394826941,
-      "version": 790,
-      "versionNonce": 1124494973,
+      "version": 791,
+      "versionNonce": 1324279027,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1690799905985,
+      "updated": 1690800573435,
       "link": null,
       "locked": false,
       "points": [
@@ -1103,11 +1083,7 @@
       ],
       "lastCommittedPoint": null,
       "startBinding": null,
-      "endBinding": {
-        "elementId": "qmXUd0eb4K91xxTR7oFeX",
-        "focus": -0.15755286583533654,
-        "gap": 3.395965576171875
-      },
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow"
     },
@@ -1132,11 +1108,11 @@
         "type": 2
       },
       "seed": 1327724723,
-      "version": 685,
-      "versionNonce": 700154835,
+      "version": 687,
+      "versionNonce": 1779193885,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1690799905985,
+      "updated": 1690800573435,
       "link": null,
       "locked": false,
       "points": [
@@ -1150,16 +1126,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "qmXUd0eb4K91xxTR7oFeX",
-        "focus": 0.15922194260817307,
-        "gap": 1.088470458984375
-      },
-      "endBinding": {
-        "elementId": "Tdbe5ocjqY9V9eXuANN53",
-        "focus": -0.1617588141025641,
-        "gap": 1
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow"
     },
@@ -1201,8 +1169,8 @@
     },
     {
       "type": "text",
-      "version": 449,
-      "versionNonce": 98668915,
+      "version": 463,
+      "versionNonce": 1680031613,
       "isDeleted": false,
       "id": "avRSnh4kpRXV1FvLC2qTB",
       "fillStyle": "hachure",
@@ -1215,23 +1183,23 @@
       "y": 1528.1979370117188,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 292.96875,
+      "width": 445.3125,
       "height": 24,
       "seed": 1258089149,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
       "boundElements": null,
-      "updated": 1690799905985,
+      "updated": 1690802327111,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 3,
-      "text": "getPokemonFromBackend(id)",
+      "text": "async getPokemonFromBackend(pokemonId)",
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "getPokemonFromBackend(id)",
+      "originalText": "async getPokemonFromBackend(pokemonId)",
       "lineHeight": 1.2,
       "baseline": 19
     },
