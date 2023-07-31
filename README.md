@@ -35,12 +35,12 @@ Showcasing how a single iteration in the development of an application can look 
   - Create pages
   - Define layouts
   - Create pages based on URL state and parameters
-- Setup tools for static code analysis (linting)
+- Setup tools for static code analysis (linting with [ESLint](https://eslint.org/))
 - Setup a deploy pipeline
 
 #### Stretch Goals
 
-- Setup Unit Testing ([Vitest](https://vitest.dev/), [walkthrough](https://www.robinwieruch.de/vitest-react-testing-library/))
+- Setup tools for dynamic program analysis (Unit Testing with [Vitest](https://vitest.dev/), [walkthrough](https://www.robinwieruch.de/vitest-react-testing-library/))
 - Setup a basic [CI pipeline](https://www.redhat.com/en/topics/devops/what-cicd-pipeline) through [GitHub Actions](https://docs.github.com/en/actions/quickstart) ([Vitest](https://vitest.dev/))
 
 ## Design Documents
