@@ -37,8 +37,7 @@ Showcasing how a single iteration of an application can look like.
 
 ### UI Design
 
-TODO
-[![Link to design document]()]()
+[Here is the design document](./docs/ui-design/ui-design.md)
 
 ### Architecture
 
