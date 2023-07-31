@@ -2,18 +2,18 @@
 
 ## Content
 
-- [Goals](#goals)
+- [Run this project locally](#run-this-project-locally)
 - [Goals](#goals)
 - [Design Documents](#design-documents)
 - [References](#references)
 
-## Goals
-
-Showcasing how a single iteration in the development of an application can look like.
-
 ## Run this project locally
 
 1. Clone repository<br> ```git clone https://github.com/LarsGJobloop/example-pokedex.git```
+
+## Goals
+
+Showcasing how a single iteration in the development of an application can look like.
 
 ### The user should
 
