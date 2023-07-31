@@ -18,7 +18,7 @@ Showcasing how a single iteration in the development of an application can look 
 ### The user should
 
 - Be able to view a list of pokemons
-  - Be able to navigate through all pokemons provided by the backend
+  - Be able to navigate through all pokemons provided by the [PokeAPI](https://pokeapi.co/)
 - See details about a specific pokemon
 
 ### Skills applied
@@ -61,6 +61,7 @@ A overview of the development cycle for this project.
 
 ## References
 
+- [PokeAPI](https://pokeapi.co/)
 - [ViteJS](https://vitejs.dev/)
 - [React](https://react.dev/)
 - [React Router](https://reactrouter.com/)
