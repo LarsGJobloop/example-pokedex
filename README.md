@@ -12,6 +12,7 @@
 1. Clone repository<br> ```git clone https://github.com/LarsGJobloop/example-pokedex.git```
 2. Install dependencies<br> ```npm install```
 3. Startup development server<br> ```npm run dev```
+4. Copy the adress from the terminal and open in browser
 
 ## Goals
 
